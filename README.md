@@ -1,4 +1,4 @@
-# Stock Price Prediction App
+# Prophet - Stock Price Prediction App
 
 This project is a stock price prediction app developed using Python, Streamlit, and Yahoo Finance API. The app allows users to analyze historical stock data, generate forecasts, and visualize the predicted trends.
 
