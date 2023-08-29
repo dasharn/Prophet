@@ -2,6 +2,11 @@
 
 This project is a stock price prediction app developed using Python, Streamlit, and Yahoo Finance API. The app allows users to analyze historical stock data, generate forecasts, and visualize the predicted trends.
 
+
+
+https://github.com/Dasharn/Prophet/assets/112700137/5c8564b3-6482-4d15-a64d-8e3113fa9774
+
+
 ## Features
 
 - Historical Stock Data: Users can select specific stocks and view their historical data, including opening and closing prices, volume, and other relevant information.
