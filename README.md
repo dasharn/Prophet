@@ -44,9 +44,5 @@ https://github.com/Dasharn/Prophet/assets/112700137/5c8564b3-6482-4d15-a64d-8e31
 
 - Prophet: The Prophet library, developed by Facebook, is used for time series forecasting.
 
-- Plotly: Interactive visualizations are created using the Plotly library.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
