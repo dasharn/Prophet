@@ -28,8 +28,6 @@ https://github.com/Dasharn/Prophet/assets/112700137/5c8564b3-6482-4d15-a64d-8e31
 3. Run the Streamlit app:
 
 
-4. Access the app in your browser by visiting [http://localhost:8501](http://localhost:8501).
-
 ## Usage
 
 1. Select the "Historical Data" page to analyze the historical stock data of different companies. Choose the desired stocks and view their historical data in tables.
